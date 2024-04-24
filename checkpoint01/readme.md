@@ -7,7 +7,7 @@ First attempt at a checkpont
     - I needed to weigh the grade ground truths more along consistent RGB exposure, and temperature changes
   - the hardest thing for me was to find the balance between training data instance count / epocs / model size. Generally I used high data instances / low epocs / medium size
   - getting the data cached was often slow - also there is a bug/feature that if an inference file is enabled to the same folder one is trainning caching takes x100 longer
-  - this took on a RTX3090 2h to train and about an 15min to cache (on windows) with a 32*32pix x10000 dataset
+  - this took on a RTX3090 2h to train and about an 15min to cache (on windows) with a 32*32pix x10000 dataset / 1000 epocs / 181818 steps
   - i have yet to create a model on a larger dataset due to
     - finding that resumeing training created a strong bias to the new train, and deceased prediction
     - running out of time (thanks to the foundy for granting me 1 month trial nuke licence to do this)
