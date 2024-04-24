@@ -1,6 +1,6 @@
 # matchGradeCat
 
-**Match the grade of different plates and export a colour match using copyCat with the CDL node**
+**Match the grade of different plates using Nuke's copyCat, and export the colour match with the CDL node**
 
 See the info tab of the .nk for instructions
 
