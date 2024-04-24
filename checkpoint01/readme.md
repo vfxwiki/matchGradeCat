@@ -7,6 +7,6 @@ First attempt at a checkpont
   - getting the data cached was often as slow as trainning - also there is a bug/feature that if an inference file is enabled to the same folder one is trainning caching takes x100 longer
   - this took on a RTX3090 2h to train and about an hour to cache (on windows) with a 32*32pix x10000 dataset
   - i have yet to create a model on a larger dataset due to
-   - finding that resumeing training created a strong bias to the new train, and deceased prediction
-   - running out of time and nuke licence
+    - finding that resumeing training created a strong bias to the new train, and deceased prediction
+    - running out of time and nuke licence
 .
