@@ -4,7 +4,7 @@ First attempt at a checkpont
 - lessons / todo's for next time
   - quality rather than quantatiy of data is key
     - I needed to curate the data (images) far more carefully, as the scatter approch here leads to worse prediction in my tests. Less is more!
-    - I needed to weigh the grade ground truths more consistent RGB exposure, and temperature changes
+    - I needed to weigh the grade ground truths more consistent RGB exposure, and temperature pattens
   - the hardest thing for me was to find the balance between training data instance count / epocs / model size. Generally I used high data instances / low epocs / medium size
   - getting the data cached was often slow - also there is a bug/feature that if an inference file is enabled to the same folder one is trainning caching takes x100 longer
   - this took on a RTX3090 2h to train and about an 15min to cache (on windows) with a 32*32pix x10000 dataset / 1000 epocs / 181818 steps
