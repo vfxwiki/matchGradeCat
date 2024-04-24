@@ -1,5 +1,7 @@
 # matchGradeCat
+INFO
 Match the grade of different plates and export a colour match using copyCat with the CDL node 
+See the info tab of the .nk for instructions
 
 LICENCE
 By downloading or copying a file from this repository you agree to the general license terms below. Copyright (c) 2010 till present All rights reserved.
