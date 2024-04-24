@@ -9,3 +9,4 @@ First attempt at a checkpont
   - i have yet to create a model on a larger dataset due to
    - finding that resumeing training created a strong bias to the new train, and deceased prediction
    - running out of time and nuke licence
+.
