@@ -10,5 +10,5 @@ First attempt at a checkpont
   - this took on a RTX3090 2h to train and about an 15min to cache (on windows) with a 32*32pix x10000 dataset
   - i have yet to create a model on a larger dataset due to
     - finding that resumeing training created a strong bias to the new train, and deceased prediction
-    - running out of time and nuke licence
+    - running out of time (thanks to the foundy for granting me 1 month trial nuke licence to do this)
 .
