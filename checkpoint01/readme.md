@@ -3,7 +3,7 @@ First attempt at a checkpont
 - All the data used was from freely avaliable sources i.e. Camera Manufacture Test files, and Plates from tutorial sites on the internet. -only a single frame is uploaded here as it's too big for github but if you want to see it all, I can put it up on a file-sharing platform ifr you want.
 - lessons / todo's for next time
   - quality rather than quantatiy of data is key
-    - I needed to curate the data (images) far more carefully, as the scatter approch here leads to worse prediction. Less is more!
+    - I needed to curate the data (images) far more carefully, as the scatter approch here leads to worse prediction in my tests. Less is more!
     - I needed to weigh the grade ground truths more along consistent RGB exposure, and temperature changes
   - the hardest thing for me was to find the balance between training data instance count / epocs / model size. Generally I used high data instances / low epocs / medium size
   - getting the data cached was often slow - also there is a bug/feature that if an inference file is enabled to the same folder one is trainning caching takes x100 longer
