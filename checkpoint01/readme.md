@@ -9,7 +9,7 @@ First attempt at a checkpont
     - 0.05 offset
     - 0.05 Power
 - lessons / todo's for next time
-  - quality rather than quantatiy of data is key
+  - quality rather than quantaiy of data is key
     - I needed to curate the data (images) far more carefully, as the scatter approch here leads to worse prediction in my tests. Less is more!
     - I needed to weigh the grade ground truths more consistent RGB exposure, and temperature pattens
   - the hardest thing for me was to find the balance between training data instance count / epocs / model size. Generally I used high data instances / low epocs / medium size. 
