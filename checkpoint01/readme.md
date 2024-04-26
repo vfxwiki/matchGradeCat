@@ -15,7 +15,7 @@ First attempt at a checkpont
   - the hardest thing for me was to find the balance between training data instance count / epocs / model size. Generally I used high data instances / low epocs / medium size. 
   - getting the data cached was often slow - also there is a bug/feature that if an inference file is enabled to the same folder one is trainning caching takes x100 longer
   - i have yet to create a model on a larger datasets/epocs due to
-    - finding that resumeing training created a strong bias to the new train, and deceased prediction, as well as the prediction often decreacing whenever i increaced the time it took to train (i assume overfitting)
+    - finding that resumeing training created a strong bias to the new train, and deceased prediction, as well as the prediction often decreacing whenever i increaced the time it took to train (i assume overfitting, as this is a generalized model)
     - running out of time/work to do lengthy tests
 
 Thanks to the foundy for granting me 1 month trial nuke licence try this out
