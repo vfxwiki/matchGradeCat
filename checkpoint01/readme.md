@@ -1,7 +1,7 @@
 First attempt at a checkpont
 
 - All the data used was from freely avaliable sources i.e. Camera Manufacture Test files, and Plates from tutorial sites on the internet. -only a single frame is uploaded here as it's too big for github but if you request, I can put it up on a file-sharing platform.
-- Source data was in ACEScg and a mixture of 2k and 4k 
+- Source data was in ACEScg and a mixture of 2k and 4k, and cropped into images of 1200x1200 (for faster loading) of 32*32pix crops
 - Train:
   - this took on a RTX3090 2h to train and about an 15min to cache (on windows) with a 32*32pix x10000 dataset / 1000 epocs / 181818 steps
   - ground truth grade random variation:
