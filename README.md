@@ -1,6 +1,7 @@
 # matchGradeCat
 
 **Match the grade of different plates using Nuke's copyCat, and export the colour match with the CDL node**
+This tool is currently at a proof of concept / early beta-stage. colloaboration is welcome
 
 See the info tab of the .nk for instructions
 
