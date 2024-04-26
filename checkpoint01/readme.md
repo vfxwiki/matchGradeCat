@@ -1,6 +1,6 @@
 First attempt at a checkpont
 
-- All the data used was from freely avaliable sources i.e. Camera Manufacture Test files, and Plates from tutorial sites on the internet. -only a single frame is uploaded here as it's too big for github but if you want to see it all, I can put it up on a file-sharing platform ifr you want.
+- All the data used was from freely avaliable sources i.e. Camera Manufacture Test files, and Plates from tutorial sites on the internet. -only a single frame is uploaded here as it's too big for github but if you request, I can put it up on a file-sharing platform.
 - Train:
   - this took on a RTX3090 2h to train and about an 15min to cache (on windows) with a 32*32pix x10000 dataset / 1000 epocs / 181818 steps
   - ground truth grade random variation:
