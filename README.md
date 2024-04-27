@@ -4,11 +4,11 @@
 
 Images need to be in linear / ACEScg between 2 and 4k.
 
-The models/checkpoints are limited to the variation of the fottage trained (I did't have much on-set examples), and have been trained mostly on ARRI ALEXA images. To keep predictions as accurate and generalized the range of CDL values is limited on the checkpoint models. You can however re-train the checkpoint model on your own image set and CDL range.
+The models/checkpoints are limited to the variation of the fottage trained, mostly on ARRI ALEXA images, but lacking on-set images. To keep predictions as accurate and generalized, the range of CDL values is limited on the current checkpoint models. You can however re-train the checkpoint model on your own image set and CDL range using the .nk gizmo/group.
 
 This tool is currently at a proof of concept / early beta-stage. Colloaboration is most welcome!
 
-See the info tab of the .nk for instructions
+See the info tab of the .nk for instructions.
 
 # LICENCE
 By downloading or copying a file from this repository you agree to the general license terms below. Copyright (c) 2010 till present All rights reserved.
