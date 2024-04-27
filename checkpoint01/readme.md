@@ -16,6 +16,6 @@ First attempt at a checkpont
   - getting the data cached was often slow - also there is a bug/feature that if an inference file is enabled to the same folder one is trainning caching takes x100 longer
   - i have yet to create a model on a larger datasets/epocs due to
     - finding that resumeing training created a strong bias to the new train, and deceased prediction, as well as the prediction often decreacing whenever i increaced the time it took to train (i assume overfitting, as this is a generalized model)
-    - running out of time/work to do lengthy tests
+    - the less cdl elements used the more accurate the model. i.e. It might be usefull to have mult/slop only models.
 
 Thanks to the foundy for granting me 1 month trial nuke licence try this out
