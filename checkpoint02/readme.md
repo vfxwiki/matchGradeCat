@@ -1,5 +1,5 @@
 
-Slight Adjustment to Checkpoint01 and trained on larger amount of the data set and less epocs, but otherwise it's the same.
+Slight Adjustment to Checkpoint01 and trained on larger amount of the data set and less epocs, but otherwise it's the same setup. Prediction is far better in this model.
 
 See Checkpoint01 for details.
 
