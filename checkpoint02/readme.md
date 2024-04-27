@@ -1,3 +1,4 @@
+Use matchGradeCat_01.nk
 
 Slight Adjustment to Checkpoint01 but trained on larger amount of the data set and less epocs, but otherwise it's the same setup. Prediction is better in this model.
 
