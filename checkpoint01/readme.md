@@ -1,3 +1,5 @@
+Use matchGradeCat_01.nk
+
 First attempt at a checkpont
 
 - All the data used was from freely avaliable sources i.e. [Camera Manufacture Test files, and Plates from tutorial sites on the internet](https://movingimagearts.com/student-training-footage/). -only a single frame of the dataset is uploaded here as it's too big for github but if you request, I can put it up on a file-sharing platform.
