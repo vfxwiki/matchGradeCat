@@ -5,5 +5,7 @@ Slight Adjustment to Checkpoint01 but trained on larger amount of the data set a
 See Checkpoint01 for details.
 
 Train:
-this took on a RTX3090 12h to train and about and 2h to cache using Checkpoint01 as checkpoint / 666 epocs / 1210909 steps / 1000000 frames
+this took on a RTX3090 5h to train and about and 1h to cache using Checkpoint01 as checkpoint
+
+I've no longer have access to Nuke so not able to test this model
 
