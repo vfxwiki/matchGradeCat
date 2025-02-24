@@ -64,7 +64,7 @@ preview_group 0
 addUserKnob {41 preview l "" -STARTLINE T CopyCatGrade.preview}
 addUserKnob {20 "" n -1}
 addUserKnob {20 tab l info}
-addUserKnob {26 ver l ver. T "0.1b - 24/04/24 beta init by <a href='https://movingimagearts.com'> Rafal Kaniewski</a> <br>\n0.2b - 23/02/25 on/off added to slope/offset/pow & size of frame for inference"}
+addUserKnob {26 ver l ver. T "0.2b - 24/04/24 beta init by <a href='https://movingimagearts.com'> Rafal Kaniewski</a> <br>\n0.2b - 23/02/25 on/off added to slope/offset/pow & size of frame for inference"}
 addUserKnob {26 link_docs l docs: T " <a href='https://github.com/vfxwiki/matchGradeCat/wiki'> Github.com</a>"}
 addUserKnob {26 link_source l source: T "<a href='https://github.com/vfxwiki/matchGradeCat'> Github.com</a>"}
 addUserKnob {26 txt l Notes}
